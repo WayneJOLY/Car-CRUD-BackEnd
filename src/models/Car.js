@@ -23,8 +23,8 @@ const Car = sequelize.define('car', {
         allowNull: false
     },
     image: {
-        type: DataTypes.TEXT,
-        allowNull: true
+        type: DataTypes.STRING(400),
+        
     },
 });
 
