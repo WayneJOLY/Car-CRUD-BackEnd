@@ -123,7 +123,7 @@ The Car model represents a car and has the following properties:
 
 For those interested in exploring the frontend of this Car Management API project, you can find the source code in a separate repository. This frontend application provides a user-friendly interface to interact with the API, allowing users to manage car records seamlessly.
 
-You can access the frontend repository [here](www.github.com/WayneJOLY/Car-CRUD-FrontEnd).
+You can access the frontend repository ![here](www.github.com/WayneJOLY/Car-CRUD-FrontEnd).
 
-Additionally, we have created a video tutorial that walks you through the setup and usage of both the API and the frontend application. Check it out [here : Video](./Car%20CRUD.mp4)
+Additionally, we have created a video tutorial that walks you through the setup and usage of both the API and the frontend application. Check it out ![here : Video](./Car%20CRUD.mp4)
 (#). Enjoy!
